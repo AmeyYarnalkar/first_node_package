@@ -1,0 +1,22 @@
+{
+  "name": "dog-image-fetcher",
+  "version": "1.0.4",
+  "description": "Fetches a random dog image from the Dog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Amey",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dog-image-fetcher": "^1.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
